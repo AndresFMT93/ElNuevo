@@ -1,0 +1,42 @@
+.margen{
+	background:  rgba(182, 192, 198, 0.5);
+	margin-top: 15px;
+	padding: 1px;
+}
+.opciones{
+  text-align-last: center;
+    padding: 9px;
+    width:400px;
+    border-radius: 1px;
+    border: 1px solid #ddd;
+    font-weight: 600;
+    color: #868585;
+    font-size: 16px;
+    margin-left: 37%;
+  }
+option{
+  font-size: 120%;
+  }
+h1{
+	text-align: center;
+	text-transform:capitalize;
+	color: #ffffff;
+	font-size: 50px;
+	background-color:  #1a2537;
+	border-width: 3px;
+	border-top: 20px;
+	border-left: 70px;
+	border-right: 70px;
+	border-bottom: 10px;
+	border-style: solid;
+}
+p{
+	text-align: center;
+	color: #1a2537;
+	font-size: 15px;
+}
+h2,h3{
+	text-align: center;
+	color: #1a2537;
+	font-size: 40px;
+}
